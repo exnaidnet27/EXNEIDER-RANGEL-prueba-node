@@ -20,7 +20,6 @@ API REST desarrollada como solución a prueba técnica backend utilizando Node.j
 12. Decisiones Técnicas
 13. Scripts SQL
 14. Posibles Mejoras
-15. Autor
 
 ---
 
