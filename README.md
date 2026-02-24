@@ -1,12 +1,33 @@
-# Prueba Técnica Node JS - Campuslands
+# 🛒 Prueba Técnica Backend - Node.js + Sequelize
 
-## Requisitos
+Prueba técnica desarrollada con Node.js, Express y Sequelize como ORM para la gestión de productos, categorías, pedidos, stock y promociones.
+
+---
+
+# 📌 Tecnologías Utilizadas
 
 - Node.js
+- Express
+- Sequelize
 - MySQL
-- Base de datos creada con el script en /sql/market.sql
+- dotenv
+- Nodemon
 
-## Instalación
+---
+
+# ⚙️ Configuración del Entorno
+
+## 1️⃣ Requisitos Previos
+
+Debe tener instalado:
+
+- Node.js (v18 o superior recomendado)
+- MySQL Server
+- Git
+
+Verificar instalación:
 
 ```bash
-npm install
+node -v
+npm -v
+mysql --version
